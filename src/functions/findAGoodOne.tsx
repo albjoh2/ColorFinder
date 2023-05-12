@@ -21,7 +21,7 @@ export default function findAGoodOne(
     },
   };
 
-  for (let i = 0; i < 500; i++) {
+  for (let i = 0; i < 100; i++) {
     let color = getRandomColor({
       background: { red: 0, green: 0, blue: 0 },
       text: { red: 0, green: 0, blue: 0 },

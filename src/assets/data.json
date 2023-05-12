@@ -7978,6 +7978,186 @@
       "textColorRed": 241,
       "textColorGreen": 88,
       "textColorBlue": 35
+    },
+    {
+      "easyToRead": 0.815,
+      "beauty": 0.954,
+      "colorRed": 250,
+      "colorGreen": 243,
+      "colorBlue": 179,
+      "textColorRed": 217,
+      "textColorGreen": 115,
+      "textColorBlue": 165
+    },
+    {
+      "easyToRead": 0.816,
+      "beauty": 0.965,
+      "colorRed": 238,
+      "colorGreen": 203,
+      "colorBlue": 231,
+      "textColorRed": 139,
+      "textColorGreen": 42,
+      "textColorBlue": 11
+    },
+    {
+      "easyToRead": 0.972,
+      "beauty": 0.975,
+      "colorRed": 227,
+      "colorGreen": 254,
+      "colorBlue": 229,
+      "textColorRed": 96,
+      "textColorGreen": 45,
+      "textColorBlue": 30
+    },
+    {
+      "easyToRead": 0.847,
+      "beauty": 0.984,
+      "colorRed": 251,
+      "colorGreen": 250,
+      "colorBlue": 247,
+      "textColorRed": 245,
+      "textColorGreen": 130,
+      "textColorBlue": 182
+    },
+    {
+      "easyToRead": 0.989,
+      "beauty": 0.964,
+      "colorRed": 229,
+      "colorGreen": 252,
+      "colorBlue": 251,
+      "textColorRed": 47,
+      "textColorGreen": 16,
+      "textColorBlue": 141
+    },
+    {
+      "easyToRead": 0.895,
+      "beauty": 0.942,
+      "colorRed": 164,
+      "colorGreen": 52,
+      "colorBlue": 169,
+      "textColorRed": 247,
+      "textColorGreen": 249,
+      "textColorBlue": 156
+    },
+    {
+      "easyToRead": 0.937,
+      "beauty": 0.916,
+      "colorRed": 253,
+      "colorGreen": 240,
+      "colorBlue": 205,
+      "textColorRed": 55,
+      "textColorGreen": 14,
+      "textColorBlue": 241
+    },
+    {
+      "easyToRead": 0.817,
+      "beauty": 0.903,
+      "colorRed": 123,
+      "colorGreen": 253,
+      "colorBlue": 227,
+      "textColorRed": 41,
+      "textColorGreen": 19,
+      "textColorBlue": 138
+    },
+    {
+      "easyToRead": 0.81,
+      "beauty": 0.978,
+      "colorRed": 254,
+      "colorGreen": 237,
+      "colorBlue": 212,
+      "textColorRed": 162,
+      "textColorGreen": 98,
+      "textColorBlue": 72
+    },
+    {
+      "easyToRead": 0.827,
+      "beauty": 0.968,
+      "colorRed": 242,
+      "colorGreen": 186,
+      "colorBlue": 153,
+      "textColorRed": 212,
+      "textColorGreen": 7,
+      "textColorBlue": 82
+    },
+    {
+      "easyToRead": 0.814,
+      "beauty": 0.947,
+      "colorRed": 199,
+      "colorGreen": 250,
+      "colorBlue": 250,
+      "textColorRed": 231,
+      "textColorGreen": 97,
+      "textColorBlue": 242
+    },
+    {
+      "easyToRead": 0.857,
+      "beauty": 0.872,
+      "colorRed": 254,
+      "colorGreen": 9,
+      "colorBlue": 191,
+      "textColorRed": 249,
+      "textColorGreen": 220,
+      "textColorBlue": 4
+    },
+    {
+      "easyToRead": 0.999,
+      "beauty": 0.954,
+      "colorRed": 249,
+      "colorGreen": 252,
+      "colorBlue": 255,
+      "textColorRed": 24,
+      "textColorGreen": 8,
+      "textColorBlue": 29
+    },
+    {
+      "easyToRead": 0.882,
+      "beauty": 0.915,
+      "colorRed": 242,
+      "colorGreen": 233,
+      "colorBlue": 171,
+      "textColorRed": 220,
+      "textColorGreen": 69,
+      "textColorBlue": 16
+    },
+    {
+      "easyToRead": 0.707,
+      "beauty": 0.728,
+      "colorRed": 186,
+      "colorGreen": 39,
+      "colorBlue": 246,
+      "textColorRed": 236,
+      "textColorGreen": 135,
+      "textColorBlue": 76
+    },
+    {
+      "easyToRead": 0.72,
+      "beauty": 0.958,
+      "colorRed": 243,
+      "colorGreen": 161,
+      "colorBlue": 203,
+      "textColorRed": 176,
+      "textColorGreen": 31,
+      "textColorBlue": 26
+    },
+    {
+      "easyToRead": 0.414,
+      "beauty": 0.663,
+      "colorRed": 236,
+      "colorGreen": 10,
+      "colorBlue": 254,
+      "textColorRed": 216,
+      "textColorGreen": 173,
+      "textColorBlue": 73
+    },
+    {
+      "easyToRead": 0.828,
+      "beauty": 0.834,
+      "colorRed": 230,
+      "colorGreen": 232,
+      "colorBlue": 137,
+      "textColorRed": 164,
+      "textColorGreen": 65,
+      "textColorBlue": 172
     }
   ]
 }

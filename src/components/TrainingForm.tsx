@@ -29,22 +29,27 @@ export default function TrainingForm(props: CanvasProps) {
 
   const handleSubmit = async (event: any) => {
     event.preventDefault();
-    await fetch("http://127.0.0.1:8090/api/collections/dataPoint/records", {
+
+    // Create an object with the data you want to write to the JSON file
+    const data = {
+      easyToRead,
+      beauty,
+      colorRed,
+      colorGreen,
+      colorBlue,
+      textColorRed,
+      textColorGreen,
+      textColorBlue,
+    };
+
+    await fetch("http://localhost:8090/api/writeData", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({
-        easyToRead,
-        beauty,
-        colorRed,
-        colorGreen,
-        colorBlue,
-        textColorRed,
-        textColorGreen,
-        textColorBlue,
-      }),
+      body: JSON.stringify(data),
     });
+
     setBeauty(0.5);
     setEasyToRead(0.5);
 

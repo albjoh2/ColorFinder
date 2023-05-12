@@ -16,12 +16,22 @@ export default function Loading() {
   return (
     <div
       style={{
+        position: "absolute",
         zIndex: "100",
         textAlign: "center",
-        width: "100vw",
-        height: "100vh",
+        width: "100%",
+        height: "100%",
+        gap: "2rem",
+        padding: "2rem",
+        top: "0",
+        left: "0",
+        backgroundColor: "#f7fafc",
+        opacity: "0.8",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
       }}
-      className="absolute gap-48 p-60 top-0 left-0 w-full h-full bg-gray-200 opacity-80 flex flex-col items-center justify-center"
     >
       <h1 className="text-3xl mb-50 font-bold text-gray-800">
         The network is learning, sit back and relax for a few seconds.

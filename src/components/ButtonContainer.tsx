@@ -8,7 +8,7 @@ export default function ButtonContainer({
   setCanvasProps,
 }: any) {
   return (
-    <div className="flex gap-5">
+    <div style={{ display: "flex", gap: "8px" }}>
       <button
         onClick={() => findAGoodOne("both", net, canvasProps, setCanvasProps)}
       >

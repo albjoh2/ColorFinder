@@ -101,7 +101,7 @@ input[type="submit"]:hover {
 }
 
 button {
-  background: #eee;
+  background: #ddd;
   color: rgb(var(--foreground-rgb));
   padding: 10px 20px;
   border-radius: 15px;
